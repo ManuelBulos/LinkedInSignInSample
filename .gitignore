@@ -1,0 +1,8 @@
+# Xcode
+xcuserdata/
+LinkedInExample.xcworkspace/
+DerivedData/
+Pods/
+
+# Mac OS X Finder
+.DS_Store
